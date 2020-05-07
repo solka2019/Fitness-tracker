@@ -46,7 +46,7 @@ init();
     }
   }
 
-// initExercise();
+initExercise();
 
 
 
